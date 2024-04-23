@@ -1,1 +1,1 @@
-ultralytics 8.1.13 fix yolo train time= bug (#8179)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
