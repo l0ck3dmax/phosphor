@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+OBB: Fix plot_images (#7592)
